@@ -29,6 +29,8 @@ Console based Galaxian game implemented in C++.
 • Collect 'O' to get extra lives.
 
 ## **Game Play**
+Game play of Easy,Medium and Hard Levels are displayed below
+
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/65526190/109388141-469a3d00-792b-11eb-8f36-d5081c4d0299.gif">
     <img  src="https://user-images.githubusercontent.com/65526190/109388145-4b5ef100-792b-11eb-940a-c79844c5cb7c.gif">
@@ -36,4 +38,3 @@ Console based Galaxian game implemented in C++.
 
 </p>
 
-&nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  Level 01&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;    &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;     Level 02&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp; &nbsp;   &nbsp;   Level 03
